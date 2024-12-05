@@ -2,6 +2,8 @@
 // Microsoft Visual C++ generated include file.
 // Used by directx12-study.rc
 
+#define APP_ICON                        101
+
 #define IDS_APP_TITLE			103
 
 #define IDR_MAINFRAME			128
